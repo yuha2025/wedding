@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 30 Dec 2024 22:01:16 at https://invistory.com/wedding-invitation-premium-f/?u=Invistory +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://invistory.com/wedding-invitation-premium-f/?u=Invistory -O1 "D:\YUHA1\Undangan" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:02:00	Error: 	"Not Found" (404) at link https://invistory.com/wedding-invitation-premium-f/%22data:image/svg+xml,%3Csvg%20xmlns=http:/www.w3.org/2000/svg%20preserveAspectRatio=none%20overflow=visible%20height=100%%20viewBox=0%200%2024%2024%20fill=none%20stroke=black%20stroke-width=9.3%20stroke-linecap=square%20stroke-miterlimit=10%3E%3Cpolyline%20points=0,18%2012,6%2024,18%20/%3E%3C/svg%3E (from https://invistory.com/wedding-invitation-premium-f/?u=Invistory)
+22:02:34	Error: 	"Not Found" (404) at link https://invistory.com/wedding-invitation-premium-f/AcroPDF.PDF (from https://invistory.com/wp-content/plugins/embedpress/assets/js/pdfobject.min.js?ver=3.9.10)
+22:02:34	Error: 	"Not Found" (404) at link https://invistory.com/wedding-invitation-premium-f/GET (from https://invistory.com/wp-content/plugins/embedpress/assets/js/vimeo-player.js?ver=3.9.10)
+22:02:34	Error: 	"Not Found" (404) at link https://invistory.com/wedding-invitation-premium-f/$&/ (from https://invistory.com/wp-includes/js/dist/vendor/react.min.js?ver=17.0.1)
+22:02:34	Error: 	"Not Found" (404) at link https://invistory.com/wedding-invitation-premium-f/-negative.svg (from https://invistory.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.15.3)
+22:02:34	Error: 	"Not Found" (404) at link https://invistory.com/wedding-invitation-premium-f/OPR/ (from https://invistory.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.15.3)
+22:02:34	Error: 	"Not Found" (404) at link https://invistory.com/wedding-invitation-premium-f/window.location.href (from https://invistory.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.15.1)
+22:02:34	Error: 	"Not Found" (404) at link https://invistory.com/wedding-invitation-premium-f/assets/pro/lib/intl-tel-input/jquery.intl-tel-input-utils.min.js (from https://invistory.com/wp-content/plugins/wpforms/assets/js/wpforms.min.js?ver=1.8.3.2)
+22:02:34	Error: 	"Not Found" (404) at link https://invistory.com/wedding-invitation-premium-f/Trident/ (from https://invistory.com/wp-content/plugins/wpforms/assets/lib/jquery.inputmask.min.js?ver=5.0.7-beta.29)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 18 seconds : 163 links scanned, 153 files written (11778569 bytes overall) [8086867 bytes received at 103677 bytes/sec], 5708063 bytes transferred using HTTP compression in 126 files, ratio 24%, 18.2 requests per connection
+(9 errors, 0 warnings, 0 messages)
